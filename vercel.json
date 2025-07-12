@@ -3,12 +3,6 @@
     {
       "source": "/(.*)",
       "destination": "https://www.lilyana.top/zh-CN/",
-      "has": [
-        {
-          "type": "host",
-          "value": "lilyana.top"
-        }
-      ],
       "permanent": true
     }
   ]
