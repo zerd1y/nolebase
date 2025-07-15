@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/index.md",
+                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "黑马点评"
             }
           }
         ]
@@ -35,25 +35,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5dfc4e6c8287ee4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
             "id": "d5332c2bfa4468de",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "基础设施 AWS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,8 +80,22 @@
               "icon": "lucide-file",
               "title": "插件不再活动"
             }
+          },
+          {
+            "id": "aead2959e532b41b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -166,24 +167,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/🤖 AI 人工智能/配置 CUDA 的一万种方法.md"
+                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "配置 CUDA 的一万种方法 的大纲"
-            }
-          },
-          {
-            "id": "2ac176b8dbb5d7eb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "黑马点评 的大纲"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "00f8f8ad2cb9f9b0",
@@ -196,17 +190,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/🤖 AI 人工智能/配置 CUDA 的一万种方法.md",
+                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "配置 CUDA 的一万种方法 的反向链接列表"
+              "title": "黑马点评 的反向链接列表"
             }
           },
           {
@@ -215,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/index.md",
+                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "黑马点评 的出链列表"
             }
           },
           {
@@ -238,13 +232,11 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,14 +250,23 @@
   },
   "active": "905634f4f6ebe06a",
   "lastOpenFiles": [
+    "zh-CN/笔记/🎊项目/assets/1653319474181.png",
+    "zh-CN/笔记/🎊项目/黑马点评.md",
+    "zh-CN/笔记/🎊项目/Nolebase.md",
+    "zh-CN/笔记/🌆后端/Redis.md",
+    "zh-CN/笔记/index.md",
+    "zh-CN/笔记/🎊项目/assets",
+    "zh-CN/笔记/🎊项目/assets/1653319474181 1.png",
+    "zh-CN/编目 Catalog/index.md",
+    "zh-CN/笔记/🎊项目",
+    "未命名",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "zh-CN/🔌 知识库插件列表.md",
     "zh-CN/index.md",
-    "zh-CN/笔记/index.md",
-    "zh-CN/笔记/🌆后端/Redis.md",
     "obsidian-screenshot-1.png.md",
     "zh-CN/笔记/🌆后端",
     "zh-CN/笔记/💻计算机",
-    "未命名",
     "zh-CN/编目 Catalog/视频/高中生就能看懂的群论，如何从对称性构建出群，群论01：什么是群 - 哔哩哔哩 bilibili.md",
     "zh-CN/编目 Catalog/视频/如何选取 RAG 中的 embedding 模型 - 哔哩哔哩 bilibili.md",
     "zh-CN/编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
@@ -291,19 +292,10 @@
     "zh-CN/编目 Catalog/文章/理解什么是 CRDT.md",
     "zh-CN/编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
     "zh-CN/编目 Catalog/文章/在 Go 语言 14 年的发展历史中，我们做得对的和不对的.md",
-    "zh-CN/编目 Catalog/文章/The Open Source Sustainability Crisis.md",
-    "zh-CN/编目 Catalog/文章/Python, Go, and TypeScript - My Insights on Crafting Command Line Interfaces.md",
-    "zh-CN/编目 Catalog/文章/The Engineering behind Figma's Vector Networks.md",
-    "zh-CN/编目 Catalog/文章/Displaying content as a graph - An exploration - This is important.md",
     "zh-CN/编目 Catalog/文章",
     "zh-CN/编目 Catalog/书籍",
-    "zh-CN/编目 Catalog",
     "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
     "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
-    "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
-    "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195043-y.jpg",
-    "zh-CN/编目 Catelog/番剧/assets/frieren-cover-1.png",
-    "zh-CN/编目 Catelog/番剧/assets",
-    "未命名.canvas"
+    "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg"
   ]
 }
