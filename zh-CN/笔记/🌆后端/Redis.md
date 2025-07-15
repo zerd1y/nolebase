@@ -1,7 +1,7 @@
 # Redis
 ## 安装配置
 
->[!note]
+>[!tip] 注意
 > 基于 Windows + WSL
 
 ### 第一步：安装 wsl
@@ -17,28 +17,28 @@
 sudo vim /etc/redis/redis.conf
 ```
 
->[!note]
+>[!tip]
 >修改一下配置：
 >1. 允许访问的地址，默认是127.0.0.1，会导致只能在本地访问。修改为0.0.0.0则可以在任意IP访问，生产环境不要设置为0.0.0.0
->```properties
+>```shell
 >bind 0.0.0.0
 >```
 >2. 守护进程，修改为yes后即可后台运行
->```properties
+>```shell
 >daemonize yes 
 >```
 >3. 密码，设置后访问Redis必须输入密码
->```properties
+>```shell
 >requirepass 101024
 >```
 >4. 日志文件，默认为空，不记录日志，可以指定日志文件名
->```properties
+>```shell
 >logfile "redis.log"
 >```
 
 设置开机自启（只有在打开 WSL 时启动Redis）
 
->[!note]
+>[!tip]
 >1. 进入配置文件
 >```Shell
 >nano ~/.bashrc
