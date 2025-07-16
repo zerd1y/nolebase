@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "file": "zh-CN/生活/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "黑马点评"
+              "title": "index"
             }
           }
         ]
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "file": "zh-CN/生活/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "黑马点评 的大纲"
+              "title": "index 的大纲"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "file": "zh-CN/笔记/🎊项目/Nolebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "黑马点评 的反向链接列表"
+              "title": "Nolebase 的反向链接列表"
             }
           },
           {
@@ -209,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "file": "zh-CN/生活/index.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "黑马点评 的出链列表"
+              "title": "index 的出链列表"
             }
           },
           {
@@ -251,14 +251,34 @@
   },
   "active": "905634f4f6ebe06a",
   "lastOpenFiles": [
+    "zh-CN/笔记/index.md",
     "zh-CN/笔记/🌆后端/Redis.md",
+    "zh-CN/笔记/🎊项目/Nolebase.md",
+    "zh-CN/编目 Catalog/assets/cover22.jpg",
+    "zh-CN/生活/🎮游戏/情感反诈模拟器.md",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195043-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
+    "zh-CN/编目 Catalog/番剧/assets/frieren-cover-1.png",
+    "zh-CN/编目 Catalog/番剧/assets",
+    "zh-CN/编目 Catalog/番剧/迷宮飯（2024）.md",
+    "zh-CN/编目 Catalog/番剧/葬送的芙莉莲（2023）.md",
+    "zh-CN/编目 Catalog/番剧/深夜 Punch（2024）.md",
+    "zh-CN/编目 Catalog/番剧/渴求游戏之神（2024）.md",
+    "zh-CN/编目 Catalog/番剧/怪异与少女与神隐（2024）.md",
+    "zh-CN/编目 Catalog/番剧/末班列车去哪里？（2024）.md",
+    "zh-CN/编目 Catalog/番剧/夜晚的水母不游泳（2024）.md",
+    "zh-CN/编目 Catalog/番剧",
+    "zh-CN/生活/index.md",
+    "zh-CN/生活/🎮游戏",
+    "zh-CN/编目 Catalog/未命名.md",
+    "zh-CN/编目 Catalog/assets",
+    "zh-CN/视图/未添加标签的页面.md",
     "zh-CN/笔记/🎊项目/黑马点评.md",
     "zh-CN/笔记/🎊项目/assets/1653319474181.png",
-    "zh-CN/笔记/🎊项目/Nolebase.md",
-    "zh-CN/笔记/index.md",
     "zh-CN/笔记/🎊项目/assets",
     "zh-CN/笔记/🎊项目/assets/1653319474181 1.png",
-    "zh-CN/编目 Catalog/index.md",
     "zh-CN/笔记/🎊项目",
     "未命名",
     "未命名 1.canvas",
@@ -273,30 +293,10 @@
     "zh-CN/编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
     "zh-CN/编目 Catalog/视频/transformers 源码阅读——图解 mixtral 模型——图解 MoE 细节 - 哔哩哔哩 bilibili.md",
     "zh-CN/编目 Catalog/视频",
-    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195043-y.jpg",
-    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
-    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
-    "zh-CN/编目 Catalog/番剧/assets/frieren-cover-1.png",
-    "zh-CN/编目 Catalog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg",
-    "zh-CN/编目 Catalog/番剧/深夜 Punch（2024）.md",
-    "zh-CN/编目 Catalog/番剧/末班列车去哪里？（2024）.md",
-    "zh-CN/编目 Catalog/番剧/迷宮飯（2024）.md",
-    "zh-CN/编目 Catalog/番剧/葬送的芙莉莲（2023）.md",
-    "zh-CN/编目 Catalog/番剧/渴求游戏之神（2024）.md",
-    "zh-CN/编目 Catalog/番剧/怪异与少女与神隐（2024）.md",
-    "zh-CN/编目 Catalog/番剧/assets",
-    "zh-CN/编目 Catalog/番剧/夜晚的水母不游泳（2024）.md",
-    "zh-CN/编目 Catalog/番剧",
     "zh-CN/编目 Catalog/文章/面向人力资源的 GitHub 指南 - 夜天之书.md",
     "zh-CN/编目 Catalog/文章/用 Rust 构建一个神经网络.md",
     "zh-CN/编目 Catalog/文章/用 Rust 写一个 OS 吧！.md",
-    "zh-CN/编目 Catalog/文章/理解什么是 CRDT.md",
-    "zh-CN/编目 Catalog/文章/开一家自己的出版社，再出一本自己写的书 - 少数派.md",
-    "zh-CN/编目 Catalog/文章/在 Go 语言 14 年的发展历史中，我们做得对的和不对的.md",
-    "zh-CN/编目 Catalog/文章",
-    "zh-CN/编目 Catalog/书籍",
     "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195042-y.jpg",
-    "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg",
-    "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195040-y.jpg"
+    "zh-CN/编目 Catelog/番剧/assets/telegram-cloud-photo-size-1-5136564463070195041-y.jpg"
   ]
 }

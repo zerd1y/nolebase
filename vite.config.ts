@@ -13,8 +13,21 @@ export default defineConfig(async () => {
     gitChangelog: {
       options: {
         gitChangelog: {
-          repoURL: () => githubRepoLink,
-          mapAuthors: creators,
+          repoURL: () => 'https://github.com/zerd1y/nolebase',
+          mapAuthors: [
+            {
+              name: 'Lilyana',
+              username: 'zerd1y',
+            },
+            {
+              name: 'Neko Ayaka',
+              username: 'nekomeowww',
+            },
+            {
+              name: '絢香音',
+              username: 'LittleSound',
+            }
+          ],
         },
         markdownSection: {
           excludes: [

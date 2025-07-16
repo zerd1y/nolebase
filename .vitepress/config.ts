@@ -106,7 +106,7 @@ export default defineConfig({
         nav: [
           { text: '主页', link: '/zh-CN/' },
           { text: '笔记', link: '/zh-CN/笔记/' },
-          { text: '编目 Catalog', link: '/zh-CN/编目 Catalog/' },
+          { text: '生活', link: '/zh-CN/生活/' },
           { text: '最近更新', link: '/zh-CN/toc' },
         ],
         socialLinks: [
@@ -121,7 +121,7 @@ export default defineConfig({
         },
         sidebar: calculateSidebar([
           { folderName: 'zh-CN/笔记', separate: true },
-          { folderName: 'zh-CN/编目 Catalog', separate: true },
+          { folderName: 'zh-CN/生活', separate: true },
         ], 'zh-CN'),
         footer: {
           message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
