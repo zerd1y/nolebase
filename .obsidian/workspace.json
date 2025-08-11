@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0924cd5490cce1ee",
+        "id": "739ecb58d73e0f57",
         "type": "tabs",
         "children": [
           {
-            "id": "ad9e3c05f5b8e3ee",
+            "id": "87bb0d4f93f1a85c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "file": "zh-CN/笔记/🎊项目/Nolebase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "黑马点评"
+              "title": "Nolebase"
             }
           }
         ]
@@ -99,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 225.5
   },
   "right": {
     "id": "246bd0838f8f40a6",
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "file": "zh-CN/笔记/🎊项目/Nolebase.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "黑马点评 的大纲"
+              "title": "Nolebase 的大纲"
             }
           }
         ],
@@ -209,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zh-CN/笔记/🎊项目/黑马点评.md",
+                "file": "zh-CN/笔记/🎊项目/Nolebase.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "黑马点评 的出链列表"
+              "title": "Nolebase 的出链列表"
             }
           },
           {
@@ -249,26 +249,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ad9e3c05f5b8e3ee",
+  "active": "87bb0d4f93f1a85c",
   "lastOpenFiles": [
-    "zh-CN/笔记/🎊项目/assets/20250723.png",
-    "zh-CN/笔记/🎊项目/黑马点评.md",
-    "zh-CN/笔记/🎊项目/assets/1653824498278.png",
+    "zh-CN/笔记/🪄 经验/CS 杂货.md",
     "zh-CN/笔记/🌆后端/Redis.md",
-    "zh-CN/笔记/🎊项目/assets/1653813462834.png",
-    "zh-CN/笔记/🎊项目/assets/20250724200325.png",
-    "zh-CN/笔记/🎊项目/assets/1653809875208.png",
-    "zh-CN/笔记/🎊项目/assets/1653809450816.png",
-    "zh-CN/笔记/🎊项目/assets/1653812346852.png",
-    "zh-CN/笔记/🎊项目/assets/20250722.png",
-    "zh-CN/笔记/🎊项目/assets/1653578560691.png",
-    "zh-CN/笔记/🎊项目/assets/1653577801668.png",
-    "zh-CN/笔记/🎊项目/assets/1653575506373.png",
     "zh-CN/笔记/🎊项目/Nolebase.md",
+    "zh-CN/笔记/🪄 经验/CS 考研.md",
+    "zh-CN/笔记/🌆后端/assets/2025081119.png",
+    "zh-CN/笔记/🌆后端/assets/2025081118 2.png",
+    "zh-CN/笔记/🌆后端/assets/2025081118 1.png",
+    "zh-CN/笔记/🌆后端/assets/2025081118.png",
+    "zh-CN/笔记/🌆后端/assets/2025081117.png",
+    "zh-CN/笔记/🌆后端/assets/2025081116.png",
+    "zh-CN/笔记/🌆后端/assets/2025081115.png",
+    "zh-CN/笔记/🌆后端/assets/2025081114.png",
+    "zh-CN/笔记/🌆后端/assets/2025081113.png",
+    "zh-CN/笔记/🌆后端/assets/2025081112.png",
+    "zh-CN/笔记/🎊项目/黑马点评.md",
+    "README_EN.md",
+    "README.md",
+    "未命名.canvas",
+    "2025-07-28.md",
     "zh-CN/生活/🎮游戏/情感反诈模拟器.md",
     "zh-CN/笔记/index.md",
     "zh-CN/🔌 知识库插件列表.md",
-    "zh-CN/笔记/🪄 经验/CS 考研.md",
     "zh-CN/笔记/🪄 经验",
     "zh-CN/笔记/🌆后端/assets",
     "zh-CN/生活/index.md",
@@ -289,15 +293,11 @@
     "zh-CN/笔记/🎊项目",
     "未命名",
     "未命名 1.canvas",
-    "未命名.canvas",
     "zh-CN/index.md",
     "obsidian-screenshot-1.png.md",
     "zh-CN/笔记/🌆后端",
     "zh-CN/编目 Catalog/视频/高中生就能看懂的群论，如何从对称性构建出群，群论01：什么是群 - 哔哩哔哩 bilibili.md",
     "zh-CN/编目 Catalog/视频/如何选取 RAG 中的 embedding 模型 - 哔哩哔哩 bilibili.md",
-    "zh-CN/编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md",
-    "zh-CN/编目 Catalog/视频/transformers 源码阅读——图解 mixtral 模型——图解 MoE 细节 - 哔哩哔哩 bilibili.md",
-    "zh-CN/编目 Catalog/文章/面向人力资源的 GitHub 指南 - 夜天之书.md",
-    "zh-CN/编目 Catalog/文章/用 Rust 构建一个神经网络.md"
+    "zh-CN/编目 Catalog/视频/【122集付费！】CNN、RNN、GAN、GNN、DQN、Transformer、LSTM等八大深度学习神经网络一口气全部学完！比刷剧还爽！ - 哔哩哔哩 bilibili.md"
   ]
 }
